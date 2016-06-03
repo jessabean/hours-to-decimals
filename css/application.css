@@ -78,9 +78,12 @@ input[type=number]:focus {
   outline: none;
 }
 
+.hours-output {
+  margin-top: 30px;
+}
+
 .converted-hours {
   font-size: 36px;
-  margin-top: 30px;
   text-align: center;
 }
 
